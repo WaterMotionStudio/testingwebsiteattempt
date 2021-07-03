@@ -48,6 +48,6 @@ body {
 
 .secondtitle {
   position:absolute;
-  bottom 100px;
-  left:100px;
+  bottom -100px;
+  left:-100px;
 
