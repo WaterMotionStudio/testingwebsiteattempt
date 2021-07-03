@@ -46,6 +46,13 @@ body {
   left: 45px;
 }
 
+.containerkorea {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-weight:bold;
+  font-size:28px;
+}
 .secondtitle {
   position:absolute;
   bottom -100px;
