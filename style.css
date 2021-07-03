@@ -3,7 +3,7 @@ body {
   background:white;
   text-align:left;
 }
-.topnav {
+topnav {
     background-color: black;
     overflow: hidden;
 }
