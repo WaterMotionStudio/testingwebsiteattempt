@@ -53,8 +53,9 @@ body {
   font-weight:bold;
   font-size:28px;
 }
+
 .secondtitle {
   position:absolute;
-  bottom -100px;
-  left:10px;
-}
+  bottom: -450px;
+  left:50px;
+  }
