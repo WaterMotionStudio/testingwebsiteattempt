@@ -34,6 +34,10 @@
   float: right;
 }
 
+.topnav-center {
+  float: center;
+}
+
 .container {
   position: relative;
   text-align: center;
